@@ -1,0 +1,8 @@
+{
+  "name": "luma-project-desk",
+  "version": "0.1.0",
+  "description": "Luma yerel proje takip uygulaması ve Windows masaüstü widget'ı",
+  "author": "Luma",
+  "main": "main.cjs",
+  "private": true
+}
